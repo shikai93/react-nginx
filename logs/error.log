@@ -1,0 +1,293 @@
+2020/12/01 17:26:04 [emerg] 5976#7720: invalid number of arguments in "alias" directive in D:\nginx/conf/nginx.conf:45
+2020/12/01 17:26:17 [notice] 6904#4596: signal process started
+2020/12/01 17:28:33 [emerg] 3636#6816: unknown directive "$status $body_bytes_sent "$http_referer" " in D:\nginx/conf/nginx.conf:23
+2020/12/01 17:28:49 [notice] 2600#3268: signal process started
+2020/12/01 17:30:22 [notice] 7684#5580: signal process started
+2020/12/01 17:36:33 [notice] 2640#3260: signal process started
+2020/12/01 17:39:18 [notice] 7676#3836: signal process started
+2020/12/01 17:39:39 [error] 4536#656: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:39:39 [error] 4536#656: *1 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng"
+2020/12/01 17:39:45 [error] 4536#656: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:39:47 [error] 4536#656: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:39:48 [error] 4536#656: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:39:50 [error] 4536#656: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:40:40 [notice] 3888#1604: signal process started
+2020/12/01 17:41:31 [notice] 4696#7948: signal process started
+2020/12/01 17:43:47 [notice] 2628#3444: signal process started
+2020/12/01 17:44:13 [notice] 5464#1252: signal process started
+2020/12/01 17:44:45 [notice] 1904#4824: signal process started
+2020/12/01 17:46:04 [notice] 4000#932: signal process started
+2020/12/01 17:46:37 [notice] 2732#6980: signal process started
+2020/12/01 17:47:35 [emerg] 7516#348: unknown log format "main" in D:\nginx/conf/nginx.conf:25
+2020/12/01 17:48:07 [emerg] 7180#3684: "log_format" directive is not allowed here in D:\nginx/conf/nginx.conf:46
+2020/12/01 17:48:37 [emerg] 6096#4424: unknown "1" variable
+2020/12/01 17:49:20 [notice] 6592#2604: signal process started
+2020/12/01 17:49:31 [error] 7248#4112: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:49:35 [error] 7248#4112: *1 CreateFile() "D:\nginx/html/fuelng/js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/js HTTP/1.1", host: "localhost:3000"
+2020/12/01 17:55:31 [notice] 3572#5464: signal process started
+2020/12/01 17:58:56 [notice] 7416#4544: signal process started
+2020/12/01 17:59:29 [error] 1832#2408: *3 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:00:03 [notice] 5984#5952: signal process started
+2020/12/01 18:00:09 [error] 4356#5104: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/manifest.json HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:00:40 [error] 4356#5104: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:32 [notice] 6196#5828: signal process started
+2020/12/01 18:01:43 [error] 6560#3236: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:44 [error] 6560#3236: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:45 [error] 6560#3236: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:46 [error] 6560#3236: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:46 [error] 6560#3236: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:46 [error] 6560#3236: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:01:55 [error] 6560#3236: *3 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:03:02 [notice] 6484#7140: signal process started
+2020/12/01 18:03:20 [error] 5132#2060: *1 CreateFile() "D:\nginx/html/fuelng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:05:42 [notice] 3844#7520: signal process started
+2020/12/01 18:05:50 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:06:05 [error] 1148#5696: *3 CreateFile() "D:/var/www/fuelng/build//manifest.json" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/manifest.json HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/"
+2020/12/01 18:06:05 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build//css/bootstrap.min.css.map" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:06:05 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build//static/css/11.86f36275.chunk.css.map" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/static/css/11.86f36275.chunk.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:06:05 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build//static/css/main.4aca3072.chunk.css.map" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/static/css/main.4aca3072.chunk.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:06:20 [error] 1148#5696: *1 "D:/var/www/fuelng/build//index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:06:22 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:06:24 [error] 1148#5696: *1 "D:/var/www/fuelng/build//index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:06:25 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:06:26 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:07:17 [error] 1148#5696: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:07:21 [emerg] 6468#6664: duplicate location "/fuelng" in D:\nginx/conf/nginx.conf:43
+2020/12/01 18:07:50 [notice] 2660#6640: signal process started
+2020/12/01 18:07:58 [error] 3188#6044: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:08:07 [error] 3188#6044: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:08:10 [error] 3188#6044: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:08:14 [error] 3188#6044: *1 "D:/var/www/fuelng/build//index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:08:16 [error] 3188#6044: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:09:17 [notice] 2888#7676: signal process started
+2020/12/01 18:09:23 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:09:24 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:09:25 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:09:25 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:09:26 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:09:27 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:09:32 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:09:37 [error] 7160#4560: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:09:52 [notice] 3688#6364: signal process started
+2020/12/01 18:10:29 [notice] 6096#5392: signal process started
+2020/12/01 18:10:36 [error] 760#3512: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:10:38 [error] 760#3512: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:10:38 [error] 760#3512: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:10:39 [error] 760#3512: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:10:40 [error] 760#3512: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:10:42 [error] 760#3512: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:10:53 [notice] 7204#5792: signal process started
+2020/12/01 18:11:09 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:11:10 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:11:11 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:11:11 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:11:12 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:11:13 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:11:15 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:12:04 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:12:05 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:12:07 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:12:08 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:12:10 [error] 4232#4596: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:12:55 [notice] 6084#3668: signal process started
+2020/12/01 18:13:04 [error] 6644#6980: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:13:05 [error] 6644#6980: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:13:06 [error] 6644#6980: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:13:06 [error] 6644#6980: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:13:08 [error] 6644#6980: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:13:10 [error] 6644#6980: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:13:54 [notice] 1624#3860: signal process started
+2020/12/01 18:14:04 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:05 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:06 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:07 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:07 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:08 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:08 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:09 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:09 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:10 [error] 7404#7832: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:13 [notice] 5776#7432: signal process started
+2020/12/01 18:14:24 [error] 8168#7540: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:25 [error] 8168#7540: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:26 [error] 8168#7540: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:30 [notice] 6664#4656: signal process started
+2020/12/01 18:14:33 [notice] 4924#6152: signal process started
+2020/12/01 18:14:34 [notice] 4140#4268: signal process started
+2020/12/01 18:14:34 [notice] 5260#6992: signal process started
+2020/12/01 18:14:34 [notice] 6048#4548: signal process started
+2020/12/01 18:14:35 [notice] 5532#976: signal process started
+2020/12/01 18:14:35 [notice] 5552#3516: signal process started
+2020/12/01 18:14:36 [notice] 852#6244: signal process started
+2020/12/01 18:14:36 [notice] 4800#5952: signal process started
+2020/12/01 18:14:36 [error] 4800#5952: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:14:44 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:44 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:45 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:46 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:47 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:49 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:51 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:51 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:14:51 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:52 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:52 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:52 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build/" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:14:58 [error] 5368#4424: *1 "D:/var/www/fuelng/build//index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:00 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:15:00 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:01 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:01 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:01 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:01 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:03 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:15:19 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//buldcss/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/buldcss/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:21 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:15:24 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:15:26 [error] 5368#4424: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:15:52 [notice] 8104#2008: signal process started
+2020/12/01 18:15:54 [notice] 5568#7440: signal process started
+2020/12/01 18:15:54 [error] 5568#7440: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:16:02 [error] 5512#7684: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:03 [error] 5512#7684: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:04 [error] 5512#7684: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:04 [error] 5512#7684: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:05 [error] 5512#7684: *1 CreateFile() "D:/var/www/fuelng/build/myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:16:06 [error] 5512#7684: *1 CreateFile() "D:/var/www/fuelng/build/myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:16:07 [notice] 3796#496: signal process started
+2020/12/01 18:16:09 [error] 5512#7684: *2 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:17 [error] 5984#6204: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:19 [error] 5984#6204: *1 CreateFile() "D:/var/www/fuelng/build/myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:16:39 [error] 5984#6204: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:41 [error] 5984#6204: *1 CreateFile() "D:/var/www/fuelng/build/myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:16:42 [notice] 5540#4368: signal process started
+2020/12/01 18:16:47 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:48 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:49 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:50 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:51 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:16:53 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:16:56 [error] 948#4876: *1 CreateFile() "D:/var/www/fuelng/build/myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:17:09 [notice] 2568#4744: signal process started
+2020/12/01 18:17:15 [notice] 4292#4604: signal process started
+2020/12/01 18:17:15 [error] 4292#4604: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:17:16 [notice] 5492#2408: signal process started
+2020/12/01 18:17:16 [error] 5492#2408: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:17:33 [notice] 1380#7396: signal process started
+2020/12/01 18:17:56 [notice] 3684#5000: signal process started
+2020/12/01 18:17:57 [notice] 4696#5052: signal process started
+2020/12/01 18:17:57 [notice] 6704#6168: signal process started
+2020/12/01 18:17:58 [notice] 2484#1584: signal process started
+2020/12/01 18:17:59 [notice] 5952#2492: signal process started
+2020/12/01 18:17:59 [notice] 3296#1920: signal process started
+2020/12/01 18:18:00 [notice] 6560#2984: signal process started
+2020/12/01 18:18:00 [notice] 2116#6500: signal process started
+2020/12/01 18:18:00 [notice] 7728#6752: signal process started
+2020/12/01 18:18:01 [notice] 6080#2148: signal process started
+2020/12/01 18:18:01 [notice] 7328#6668: signal process started
+2020/12/01 18:18:01 [notice] 4848#7060: signal process started
+2020/12/01 18:18:01 [error] 4848#7060: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:18:03 [notice] 4648#508: signal process started
+2020/12/01 18:18:03 [error] 4648#508: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:18:09 [error] 5324#2464: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:18:09 [error] 5324#2464: *1 CreateFile() "D:/var/www/fuelng/build//css/custom.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/custom.css HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:18:10 [error] 5324#2464: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:18:11 [error] 5324#2464: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:18:12 [error] 5324#2464: *1 "D:/var/www/fuelng/build//index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/ HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:18:14 [error] 5324#2464: *1 CreateFile() "D:/var/www/fuelng/build//myServiceWorker.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/myServiceWorker.js HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fuelng/myServiceWorker.js"
+2020/12/01 18:18:16 [notice] 3736#8148: signal process started
+2020/12/01 18:19:22 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:19:38 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:19:41 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:19:42 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:19:43 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:20:16 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:20:25 [error] 4884#4932: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:21:43 [notice] 852#7068: signal process started
+2020/12/01 18:21:44 [notice] 6704#6640: signal process started
+2020/12/01 18:21:44 [error] 6704#6640: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:21:44 [notice] 2484#6276: signal process started
+2020/12/01 18:21:44 [error] 2484#6276: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:21:44 [notice] 5952#4704: signal process started
+2020/12/01 18:21:44 [error] 5952#4704: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:22:02 [error] 3936#7728: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:22:37 [notice] 6448#6108: signal process started
+2020/12/01 18:22:57 [notice] 7280#2376: signal process started
+2020/12/01 18:22:58 [notice] 5056#7212: signal process started
+2020/12/01 18:22:59 [notice] 5664#5024: signal process started
+2020/12/01 18:22:59 [notice] 5896#7956: signal process started
+2020/12/01 18:23:00 [notice] 2256#5972: signal process started
+2020/12/01 18:23:01 [notice] 6200#6024: signal process started
+2020/12/01 18:23:02 [notice] 7776#2688: signal process started
+2020/12/01 18:23:03 [notice] 7680#1176: signal process started
+2020/12/01 18:23:03 [error] 7680#1176: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:23:14 [notice] 7772#5132: signal process started
+2020/12/01 18:23:14 [error] 7772#5132: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:23:49 [notice] 7712#4560: signal process started
+2020/12/01 18:23:50 [notice] 2000#8128: signal process started
+2020/12/01 18:23:50 [notice] 2628#7736: signal process started
+2020/12/01 18:23:52 [notice] 3668#5804: signal process started
+2020/12/01 18:23:53 [notice] 7800#6612: signal process started
+2020/12/01 18:23:53 [notice] 3932#4860: signal process started
+2020/12/01 18:23:54 [notice] 5524#3428: signal process started
+2020/12/01 18:23:55 [notice] 3752#4684: signal process started
+2020/12/01 18:23:55 [error] 3752#4684: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:24:01 [error] 6380#6548: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:24:02 [error] 6380#6548: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:24:04 [error] 6380#6548: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:24:29 [error] 6380#6548: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:25:29 [notice] 8068#5344: signal process started
+2020/12/01 18:25:30 [notice] 6492#1192: signal process started
+2020/12/01 18:25:30 [error] 6492#1192: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:25:31 [notice] 4004#7392: signal process started
+2020/12/01 18:25:31 [error] 4004#7392: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:26:01 [error] 7616#6752: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:26:26 [error] 7616#6752: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:27:31 [notice] 972#904: signal process started
+2020/12/01 18:27:32 [notice] 6608#2916: signal process started
+2020/12/01 18:27:32 [error] 6608#2916: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:27:33 [notice] 1924#4768: signal process started
+2020/12/01 18:27:33 [error] 1924#4768: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:27:43 [error] 4408#6964: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:30:58 [notice] 3400#7776: signal process started
+2020/12/01 18:30:59 [notice] 6200#7036: signal process started
+2020/12/01 18:30:59 [error] 6200#7036: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:30:59 [notice] 7600#1348: signal process started
+2020/12/01 18:30:59 [error] 7600#1348: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:30:59 [notice] 3772#6888: signal process started
+2020/12/01 18:30:59 [error] 3772#6888: CreateFile() "D:\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/12/01 18:32:48 [notice] 5272#3712: signal process started
+2020/12/01 18:35:31 [notice] 5464#1700: signal process started
+2020/12/01 18:35:42 [error] 6916#3884: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/css/bootstrap.min.css.map HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:36:11 [error] 6916#3884: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:36:20 [error] 6916#3884: *1 CreateFile() "D:\nginx/htmlindex.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:46:08 [notice] 7440#1832: signal process started
+2020/12/01 18:47:54 [notice] 3736#6760: signal process started
+2020/12/01 18:48:08 [error] 7836#7408: *1 CreateFile() "D:\nginx/html/var/www/fuelng/build/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:48:10 [error] 7836#7408: *1 CreateFile() "D:\nginx/html/var/www/fuelng/build/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/01 18:48:23 [error] 7836#7408: *1 CreateFile() "D:\nginx/html/var/www/fuelng/build/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:01:26 [error] 6556#7436: *1 CreateFile() "D:\nginx/html/fueng" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /fueng HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:01:26 [error] 6556#7436: *1 CreateFile() "D:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:3000", referrer: "http://localhost:3000/fueng"
+2020/12/02 09:02:29 [notice] 4840#1256: signal process started
+2020/12/02 09:03:52 [error] 1840#7376: *4 CreateFile() "D:\nginx/html/html/fuelng/build/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:06:03 [notice] 3228#7508: signal process started
+2020/12/02 09:06:23 [error] 348#2024: *1 rewrite or internal redirection cycle while internally redirecting to "/fuelng/build/index.html", client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:06:26 [error] 348#2024: *2 rewrite or internal redirection cycle while internally redirecting to "/fuelng/build/index.html", client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:09:39 [notice] 4376#4832: signal process started
+2020/12/02 09:11:35 [notice] 2272#3628: signal process started
+2020/12/02 09:16:26 [notice] 108#3796: signal process started
+2020/12/02 09:16:46 [error] 3060#7552: *1 rewrite or internal redirection cycle while internally redirecting to "/fuelngapp/build/index.html", client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:16:47 [error] 3060#7552: *2 rewrite or internal redirection cycle while internally redirecting to "/fuelngapp/build/index.html", client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:19:19 [notice] 6352#4024: signal process started
+2020/12/02 09:19:51 [notice] 7112#7100: signal process started
+2020/12/02 09:20:04 [notice] 3184#2932: signal process started
+2020/12/02 09:20:11 [error] 3936#7292: *1 CreateFile() "D:\nginx/htmlfuelngapp/build/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:22:13 [error] 3936#7292: *3 CreateFile() "D:\nginx/htmlfuelngapp/build/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /fuelng/login HTTP/1.1", host: "localhost:3000"
+2020/12/02 09:32:24 [emerg] 1092#6172: location "/fuelng" cannot be inside the named location "@reactFuelngHome" in D:\nginx/conf/nginx.conf:41
+2020/12/02 09:32:35 [notice] 5596#6824: signal process started
+2020/12/02 09:41:17 [notice] 7928#6660: signal process started
+2020/12/02 09:41:17 [error] 7928#6660: OpenEvent("Global\ngx_stop_7436") failed (5: Access is denied)
+2020/12/02 09:41:23 [notice] 5540#6244: signal process started
+2020/12/02 09:41:23 [error] 5540#6244: OpenEvent("Global\ngx_stop_7436") failed (5: Access is denied)
+2020/12/02 09:43:47 [notice] 6412#2600: signal process started
+2020/12/02 09:43:47 [error] 6412#2600: OpenEvent("Global\ngx_stop_7436") failed (5: Access is denied)
