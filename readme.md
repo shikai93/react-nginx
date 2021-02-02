@@ -12,9 +12,12 @@ Replace all {sub-directory} and {sub-directory-folder} with your relevant projec
 2. Change port configurations using ` listen       3000;`
 3. Set Nginx config to have 
 ```
-location ^~ /{sub-directory} {
-    alias html/{sub-directory-folder}/build;
-    try_files $uri $uri/ /{sub-directory}/index.html;
+location /{sub-directory} {
+    return 301 https://{domain}/{sub-director}/;
+}
+location ^~ /{sub-directory}/ {
+    alias html/{sub-directory-folder}/build/;
+    try_files $uri $uri/ /index.html;
 }
 ```
 4. Run `nginx.exe -p {path/to/nginx.exe}`
